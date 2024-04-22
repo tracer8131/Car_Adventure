@@ -1,7 +1,10 @@
 # Car_Adventure
-This is a text adventure that provides an immersive experience into testing a self-driving car. Will you make it back home safe? Will you enjoy the endeavors of doing so? Or will you end up in court for missuse of it? There is only one way to find out...
+Congratulations! You got yourself a brand new Tesla! It can drive itself and you can't wait to try it out! What will happen? Will you enjoy this newest feature in the automobile industry? Or will it backfire harder than you ever thought?
 
-## Platform
+## Basis
+This adventure is based around the first death caused by a self-driving car. This event caused more regulations to be created regarding standards of the software invovled in the autopilot feature and clarified who would be responsible if a self-driving car were to hit another car or a pedestrian.
+
+### Platform
 Twine
 
 ### Contributors
